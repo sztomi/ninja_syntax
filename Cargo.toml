@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 authors = ["Tamás Szelei <szelei.t@gmail.com>"]
-description = "A Rust implementation of the Debug Adapter Protocol"
+description = "A Rust port of ninja_syntax.py"
 license = "MIT"
 repository = "https://github.com/sztomi/ninja_syntax"
 homepage = "https://github.com/sztomi/ninja_syntax"
