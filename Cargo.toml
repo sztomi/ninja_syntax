@@ -3,7 +3,14 @@ name = "ninja_syntax"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Tamás Szelei <szelei.t@gmail.com>"]
+description = "A Rust implementation of the Debug Adapter Protocol"
+license = "MIT"
+repository = "https://github.com/sztomi/ninja_syntax"
+homepage = "https://github.com/sztomi/ninja_syntax"
+readme = "README.md"
+keywords = ["ninja", "development", "build", "build-tools"]
+categories = ["development-tools::build-utils"]
 
 [dependencies]
 textwrap = "0.16.0"
